@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Phase-4B_COMPLETED-10b981?style=for-the-badge">
 </p>
 
 ---
@@ -60,40 +59,6 @@ php artisan serve
 # DILG Admin: admin@dilg.gov.ph / password
 # Barangay Staff: {barangay-slug}@barangay.dilg.gov.ph / password
 ```
-
----
-
-## 📚 Documentation Files
-
-- `ACCOUNTS_CREDENTIALS.md` - All 27 test accounts
-- `PHASE_3E_COMPLETION_REPORT.md` - Status timeline feature details
-- `TESTING_GUIDE.md` - Testing procedures
-- `QUICK_ACCESS_GUIDE.md` - Quick reference guide
-- `TEST_ALL_LINKS.md` - Link verification results
-- `PHASE_4B_COMPLETION_REPORT.md` - GIS boundary integration details
-- `LEAFLET_LOCAL_SETUP.md` - Leaflet.js local installation guide
-
----
-
-## 🎨 UI Theme
-
-**DILG Official Colors:**
-- Primary: `#F4C542` (DILG Yellow)
-- Secondary: `#D4A017` (DILG Dark Gold)
-- Background: `#FFFFFF` (White)
-- Text: `#333333` (Dark Gray)
-- Success: `#10b981` (Green)
-- Warning: `#f59e0b` (Orange)
-- Error: `#ef4444` (Red)
-
-**Design Guidelines:**
-- Clean, professional government interface
-- Notion-style rounded badge buttons
-- Font Awesome 6.4.0 icons
-- Responsive grid layouts
-- Official document formatting for printables
-- Times New Roman for printable reports
-- Proper page breaks and print CSS
 
 ---
 
